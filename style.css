@@ -79,3 +79,15 @@ ul a {
   color: #1e1e1e;
   padding: 0 20px;
 }
+
+
+.slide{
+  width: 100vw;
+  height: 100vh;
+}
+
+.wrapper{
+  display: flex;
+  flex-direction: row;
+  width: 400vw;
+}
